@@ -1,4 +1,6 @@
-## Hi there 👋
+> 悟已往之不谏，知来者之可追 🌿
+
+<!--## Hi there 👋-->
 
 <!--
 **wangbard/wangbard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
